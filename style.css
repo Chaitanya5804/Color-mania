@@ -1,0 +1,16 @@
+h1{
+    text-align:center;
+    font-weight: 700;
+    font-family: cursive;
+    color:black;
+    font-size:100px;
+}
+ 
+.click{
+    border-radius:10px;
+    background-color:aliceblue;
+    color:black;
+    height:40px;
+    width:100px;
+    margin-left:45%;
+}
